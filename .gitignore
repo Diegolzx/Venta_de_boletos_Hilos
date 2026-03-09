@@ -1,0 +1,22 @@
+## .NET
+bin/
+obj/
+Publicar/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## VS Code
+.vscode/
+
+## Visual Studio
+.vs/
+
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
